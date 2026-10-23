@@ -1,0 +1,22 @@
+// Categories supported by NewsData.io (also used for admin-written articles)
+module.exports = [
+  'top',
+  'india',
+  'maharashtra',
+  'world',
+  'business',
+  'technology',
+  'sports',
+  'entertainment',
+  'science',
+  'health',
+  'politics',
+  'education',
+  'environment',
+  'lifestyle',
+  'crime',
+  'food',
+  'tourism',
+  'domestic',
+  'other',
+];
